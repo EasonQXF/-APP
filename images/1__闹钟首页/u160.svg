@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="85px" height="85px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="272.5" y1="816.3" x2="272.5" y2="852" id="LinearGradient50">
-      <stop id="Stop51" stop-color="#ffffff" offset="0" />
-      <stop id="Stop52" stop-color="#000000" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="272.5" y1="816.3" x2="272.5" y2="852" id="LinearGradient2">
+      <stop id="Stop3" stop-color="#ffffff" offset="0" />
+      <stop id="Stop4" stop-color="#000000" offset="1" />
     </linearGradient>
   </defs>
   <g transform="matrix(1 0 0 1 -230 -767 )">
     <path d="M 272.5 767  C 296.3 767  315 785.7  315 809.5  C 315 833.3  296.3 852  272.5 852  C 248.7 852  230 833.3  230 809.5  C 230 785.7  248.7 767  272.5 767  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
-    <path d="M 272.5 767.5  C 296.02 767.5  314.5 785.98  314.5 809.5  C 314.5 833.02  296.02 851.5  272.5 851.5  C 248.98 851.5  230.5 833.02  230.5 809.5  C 230.5 785.98  248.98 767.5  272.5 767.5  Z " stroke-width="1" stroke="url(#LinearGradient50)" fill="none" />
+    <path d="M 272.5 767.5  C 296.02 767.5  314.5 785.98  314.5 809.5  C 314.5 833.02  296.02 851.5  272.5 851.5  C 248.98 851.5  230.5 833.02  230.5 809.5  C 230.5 785.98  248.98 767.5  272.5 767.5  Z " stroke-width="1" stroke="url(#LinearGradient2)" fill="none" />
   </g>
 </svg>
