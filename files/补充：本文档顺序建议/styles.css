@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u1008_div {
+#u1225_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -35,7 +35,7 @@
   font-style:normal;
   font-size:20px;
 }
-#u1008 {
+#u1225 {
   border-width:0px;
   position:absolute;
   left:58px;
@@ -48,14 +48,14 @@
   font-style:normal;
   font-size:20px;
 }
-#u1008 .text {
+#u1225 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u1008_text {
+#u1225_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
